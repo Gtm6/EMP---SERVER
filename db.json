@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "gtm2000s@gmail.com",
+      "password": "1234",
+      "name": "AeroBots",
+      "profilePic": ""
+    },
+    {
+      "id": "78c1",
+      "empId": "emp1",
+      "name": "IronMan",
+      "email": "ironman@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "ddd6",
+      "empId": "emp2",
+      "name": "Thor",
+      "email": "thor@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "8d3b",
+      "empId": "emp3",
+      "name": "Hulk",
+      "email": "hulk@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "d715",
+      "empId": "emp4",
+      "name": "BlackPanther",
+      "email": "pantherblack@gmailcom",
+      "status": "0"
+    },
+    {
+      "id": "cb08",
+      "empId": "emp5",
+      "name": "CaptenAmerica",
+      "email": "capten@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "d0b2",
+      "empId": "emp6",
+      "name": "Vision",
+      "email": "vision@gmil.com",
+      "status": "0"
+    },
+    {
+      "id": "5710",
+      "empId": "emp7",
+      "name": "CaptenMarvel",
+      "email": "cmarvel@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "9415",
+      "empId": "emp8",
+      "name": "DrStrange",
+      "email": "drstrange@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "1eb3",
+      "empId": "emp11",
+      "name": "loki",
+      "email": "asguardgod@gmail.com",
+      "status": "0"
+    }
+  ]
+}
